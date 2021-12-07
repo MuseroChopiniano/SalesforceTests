@@ -1,0 +1,8 @@
+Org: gaston.suarez@omnistudio.com
+Version: 1.12.12
+PackageVersion: 890.283
+Namespace: vlocity_ins
+Job: yaml/FullMig.yaml
+Action: Deploy
+ProjectPath: vlocity
+Errors: None
