@@ -1,0 +1,19 @@
+projectPath: vlocity
+queries:
+  - OmniScript
+  - IntegrationProcedure
+  - DataRaptor
+  - VlocityUILayout
+
+  curl -X GET "https://uvitechargentina--dev.lightning.force.com/services/data/v53.0/chatter/users/me" -H 'Authorization: Bearer 00D7j000000Gyix!ARIAQKLf4KVS69V1c2IImlCa3beXJnHIhzaGvVdLMKjGqyfK2lpWU8tEED9qDWYjFPQjdDQ371Z9JS0Ok_.erWfvLS6RGEx7'
+  curl "https://uvitechargentina--dev.lightning.force.com/services/data/v52.0" -H 'Authorization: Bearer 00D7j000000Gyix!ARIAQD_BDhxbw3sJUjAIjsssfG6uTmW6KASBaa8uaWmLVrBYcd8wI9DhAYF_obypnI1Ffjfw34UN7kfjGuzZJt._4J5NtVvz'
+  - VlocityUITemplate
+
+
+
+
+  curl -X POST "Https://login.salesforce.com/services/oauth2/token" --data-urlencode 'grant_type=password' --data-urlencode 'client_id=3MVG9p1Q1BCe9GmBwrf_._ElnBXdxVlx_Atd9EaL7YU1E25GqG.gWFJNrLxxWLbaao7NOODTgA5ufD8E.PFzy' --data-urlencode 'client_secret=D7EDE963981BDD1DE70BDD5DE653F7A385D5E6CC8E01ED7ED5873FF51880FFFC' --data-urlencode 'username=gaston.suarez@teamglobant.com' --data-urlencode 'password=Chopin1510dc3WcTiNx8TGLATonIUCcvRsF'
+
+  curl "https://globantteam-dev-ed.my.salesforce.com/services/data/v53.0" -H 'Authorization: Bearer 00D5f00000207R2!AQQAQBRe0OZdOlcsmnISd5UKnwwLgJi8QlbEFgTMgkPAI4bYSFA51hmXGxkOhaSa0GXnIKffUE9NnxPjf.59gQWBzMt4fh0u'
+
+  

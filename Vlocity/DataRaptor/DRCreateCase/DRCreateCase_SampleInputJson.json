@@ -1,0 +1,12 @@
+{
+    "InformacionDelProducto": {
+        "CtaTarjetaAfectada": null,
+        "QueNoReconoceProducto": "No reconozco los consumos o movimientos",
+        "SinPrd": true,
+        "TipoPrd": null
+    },
+    "InformacionDelReclamo": {
+        "CasoReiterativo": "No",
+        "TipoProblema": "Estoy en desacuerdo con el caso"
+    }
+}

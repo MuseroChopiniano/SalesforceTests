@@ -1,0 +1,20 @@
+{
+    "": null,
+    "ContextId": "0015f000003eueVAAQ",
+    "Id": "0015f000003eueVAAQ",
+    "StepAccount": {
+        "Name": "Acme",
+        "Phone": "(212) 154-6450",
+        "Website": "www.acme4.com"
+    },
+    "timeStamp": "2021-09-09T00:59:07.047Z",
+    "userCurrencyCode": "MXN",
+    "userId": "0055f000001igryAAA",
+    "userName": "guillenstudysf21@gmail.com",
+    "userProfile": "System Administrator",
+    "userTimeZone": "-300",
+    "vlcTimeTracking": {
+        "IPGetAccountDetails": 414,
+        "OmniScriptSessionToken": "4c131b88-fb9e-471a-9b57-0abaee5ef98c"
+    }
+}

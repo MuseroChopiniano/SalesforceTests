@@ -1,0 +1,50 @@
+[
+  {
+    "transactionNumber": "1269570",
+    "registerDate": "2019-07-31",
+    "processingDate": "2009-05-31",
+    "transactionAmount": 1290,
+    "referenceInformation": "A 193 1166983 1",
+    "branchOffice": {
+      "code": "111"
+    },
+    "agency": {
+      "code": "111"
+    },
+    "user": {
+      "userId": "TNP0H6"
+    }
+  },
+  {
+    "transactionNumber": "1269570",
+    "registerDate": "2019-07-31",
+    "processingDate": "2009-05-31",
+    "transactionAmount": 1290,
+    "referenceInformation": "A 193 1166983 1",
+    "branchOffice": {
+      "code": "111"
+    },
+    "agency": {
+      "code": "111"
+    },
+    "user": {
+      "userId": "TNP0H6"
+    }
+  },
+  {
+    "transactionNumber": "1269570",
+    "registerDate": "2019-07-31",
+    "processingDate": "2009-05-31",
+    "transactionAmount": 1290,
+    "referenceInformation": "A 193 1166983 1",
+    "branchOffice": {
+      "code": "111"
+    },
+    "agency": {
+      "code": "111"
+    },
+    "user": {
+      "userId": "TNP0H6"
+    }
+  }
+]

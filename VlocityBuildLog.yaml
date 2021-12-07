@@ -1,0 +1,19 @@
+Org: gaston.suarez@omnistudio.com
+Version: 1.12.12
+Node: v14.16.0
+PackageVersion: '890.283'
+Namespace: vlocity_ins
+Job: VDX
+Action: Deploy
+ProjectPath: vlocity
+TotalTime: 1m 15s
+Count:
+  Success: {}
+Errors: []
+Status:
+  Success: {}
+StatusCount:
+  Remaining: 0
+  Success: 136
+  Error: 0
+id: !<tag:yaml.org,2002:js/undefined> ''
